@@ -1,0 +1,111 @@
+2019-04-20 18:51:42,600 : env: Walker2d-v3
+2019-04-20 18:51:42,600 : model: CONV
+2019-04-20 18:51:42,600 : num_episodes: 100
+2019-04-20 18:51:42,600 : max_episode_length: 100000
+2019-04-20 18:51:42,600 : load_model_dir: trained_models/
+2019-04-20 18:51:42,600 : log_dir: logs/
+2019-04-20 18:51:42,600 : render: False
+2019-04-20 18:51:42,601 : render_freq: 1
+2019-04-20 18:51:42,601 : stack_frames: 1
+2019-04-20 18:51:42,601 : new_gym_eval: False
+2019-04-20 18:51:42,601 : seed: 1
+2019-04-20 18:51:44,428 : Episode_length, 937, reward_sum, 1159.3429976727064, reward_mean, 1159.3430
+2019-04-20 18:51:45,500 : Episode_length, 905, reward_sum, 1122.736066043751, reward_mean, 1141.0395
+2019-04-20 18:51:46,575 : Episode_length, 917, reward_sum, 1137.2601190651355, reward_mean, 1139.7797
+2019-04-20 18:51:47,705 : Episode_length, 938, reward_sum, 1161.3194425091524, reward_mean, 1145.1647
+2019-04-20 18:51:48,781 : Episode_length, 909, reward_sum, 1132.8415201491096, reward_mean, 1142.7000
+2019-04-20 18:51:49,865 : Episode_length, 917, reward_sum, 1134.1350497426274, reward_mean, 1141.2725
+2019-04-20 18:51:50,929 : Episode_length, 908, reward_sum, 1127.9208302639083, reward_mean, 1139.3651
+2019-04-20 18:51:52,052 : Episode_length, 920, reward_sum, 1140.0789150322785, reward_mean, 1139.4544
+2019-04-20 18:51:53,185 : Episode_length, 927, reward_sum, 1146.5086445459276, reward_mean, 1140.2382
+2019-04-20 18:51:54,231 : Episode_length, 893, reward_sum, 1110.7008954878079, reward_mean, 1137.2844
+2019-04-20 18:51:55,308 : Episode_length, 921, reward_sum, 1136.350434908596, reward_mean, 1137.1995
+2019-04-20 18:51:56,362 : Episode_length, 900, reward_sum, 1118.7967582027368, reward_mean, 1135.6660
+2019-04-20 18:51:57,432 : Episode_length, 905, reward_sum, 1122.1952612133364, reward_mean, 1134.6298
+2019-04-20 18:51:58,553 : Episode_length, 917, reward_sum, 1136.6652387041156, reward_mean, 1134.7752
+2019-04-20 18:51:59,624 : Episode_length, 910, reward_sum, 1129.1566437640222, reward_mean, 1134.4006
+2019-04-20 18:52:00,676 : Episode_length, 898, reward_sum, 1114.1854282924796, reward_mean, 1133.1371
+2019-04-20 18:52:01,765 : Episode_length, 934, reward_sum, 1154.7523325160475, reward_mean, 1134.4086
+2019-04-20 18:52:02,850 : Episode_length, 907, reward_sum, 1123.9704432664025, reward_mean, 1133.8287
+2019-04-20 18:52:03,943 : Episode_length, 926, reward_sum, 1144.8880549850403, reward_mean, 1134.4108
+2019-04-20 18:52:05,002 : Episode_length, 908, reward_sum, 1125.369241203386, reward_mean, 1133.9587
+2019-04-20 18:52:06,094 : Episode_length, 933, reward_sum, 1151.1001405111836, reward_mean, 1134.7750
+2019-04-20 18:52:07,168 : Episode_length, 919, reward_sum, 1141.4996414977777, reward_mean, 1135.0806
+2019-04-20 18:52:08,269 : Episode_length, 917, reward_sum, 1135.5671963504928, reward_mean, 1135.1018
+2019-04-20 18:52:09,329 : Episode_length, 904, reward_sum, 1121.1763853013751, reward_mean, 1134.5216
+2019-04-20 18:52:10,407 : Episode_length, 924, reward_sum, 1143.1223829620435, reward_mean, 1134.8656
+2019-04-20 18:52:11,457 : Episode_length, 902, reward_sum, 1119.6835683883949, reward_mean, 1134.2817
+2019-04-20 18:52:12,544 : Episode_length, 935, reward_sum, 1155.5369827355585, reward_mean, 1135.0689
+2019-04-20 18:52:13,663 : Episode_length, 917, reward_sum, 1132.1394791212317, reward_mean, 1134.9643
+2019-04-20 18:52:14,730 : Episode_length, 914, reward_sum, 1134.275857840324, reward_mean, 1134.9406
+2019-04-20 18:52:15,814 : Episode_length, 929, reward_sum, 1150.7439527125482, reward_mean, 1135.4673
+2019-04-20 18:52:16,876 : Episode_length, 909, reward_sum, 1130.6367497548792, reward_mean, 1135.3115
+2019-04-20 18:52:17,940 : Episode_length, 911, reward_sum, 1132.161090445121, reward_mean, 1135.2131
+2019-04-20 18:52:19,034 : Episode_length, 902, reward_sum, 1116.3436325512205, reward_mean, 1134.6413
+2019-04-20 18:52:20,100 : Episode_length, 901, reward_sum, 1117.5475860000427, reward_mean, 1134.1385
+2019-04-20 18:52:21,236 : Episode_length, 972, reward_sum, 1190.1526330316303, reward_mean, 1135.7389
+2019-04-20 18:52:22,333 : Episode_length, 925, reward_sum, 1141.9087450782122, reward_mean, 1135.9103
+2019-04-20 18:52:23,421 : Episode_length, 908, reward_sum, 1126.9544804859042, reward_mean, 1135.6682
+2019-04-20 18:52:24,548 : Episode_length, 960, reward_sum, 1178.3589820285272, reward_mean, 1136.7917
+2019-04-20 18:52:25,622 : Episode_length, 917, reward_sum, 1136.3403887016916, reward_mean, 1136.7801
+2019-04-20 18:52:26,708 : Episode_length, 913, reward_sum, 1133.4284869591681, reward_mean, 1136.6963
+2019-04-20 18:52:27,762 : Episode_length, 905, reward_sum, 1122.700759983293, reward_mean, 1136.3550
+2019-04-20 18:52:28,907 : Episode_length, 956, reward_sum, 1176.397188387663, reward_mean, 1137.3083
+2019-04-20 18:52:29,986 : Episode_length, 905, reward_sum, 1124.2424559953083, reward_mean, 1137.0045
+2019-04-20 18:52:31,048 : Episode_length, 912, reward_sum, 1129.9419124274457, reward_mean, 1136.8440
+2019-04-20 18:52:32,102 : Episode_length, 900, reward_sum, 1114.6187468251628, reward_mean, 1136.3501
+2019-04-20 18:52:33,155 : Episode_length, 901, reward_sum, 1118.9020145923648, reward_mean, 1135.9708
+2019-04-20 18:52:34,235 : Episode_length, 886, reward_sum, 1102.1736146984192, reward_mean, 1135.2517
+2019-04-20 18:52:35,294 : Episode_length, 905, reward_sum, 1122.8318568375266, reward_mean, 1134.9929
+2019-04-20 18:52:36,350 : Episode_length, 905, reward_sum, 1122.529817177394, reward_mean, 1134.7386
+2019-04-20 18:52:37,413 : Episode_length, 911, reward_sum, 1128.9064690655796, reward_mean, 1134.6220
+2019-04-20 18:52:38,541 : Episode_length, 956, reward_sum, 1175.679597490103, reward_mean, 1135.4270
+2019-04-20 18:52:39,624 : Episode_length, 909, reward_sum, 1127.775089105949, reward_mean, 1135.2799
+2019-04-20 18:52:40,721 : Episode_length, 938, reward_sum, 1154.966268429039, reward_mean, 1135.6513
+2019-04-20 18:52:41,871 : Episode_length, 982, reward_sum, 1200.6662232864153, reward_mean, 1136.8553
+2019-04-20 18:52:42,965 : Episode_length, 938, reward_sum, 1159.1287161430837, reward_mean, 1137.2602
+2019-04-20 18:52:44,040 : Episode_length, 895, reward_sum, 1111.807952120947, reward_mean, 1136.8057
+2019-04-20 18:52:45,110 : Episode_length, 907, reward_sum, 1121.9829355506845, reward_mean, 1136.5457
+2019-04-20 18:52:46,187 : Episode_length, 922, reward_sum, 1141.6738311325496, reward_mean, 1136.6341
+2019-04-20 18:52:47,257 : Episode_length, 918, reward_sum, 1137.7652111565073, reward_mean, 1136.6533
+2019-04-20 18:52:48,315 : Episode_length, 906, reward_sum, 1123.1015717279895, reward_mean, 1136.4274
+2019-04-20 18:52:49,453 : Episode_length, 936, reward_sum, 1155.9411414573767, reward_mean, 1136.7473
+2019-04-20 18:52:50,540 : Episode_length, 928, reward_sum, 1144.9846547307054, reward_mean, 1136.8802
+2019-04-20 18:52:51,632 : Episode_length, 932, reward_sum, 1151.18321192227, reward_mean, 1137.1072
+2019-04-20 18:52:52,754 : Episode_length, 963, reward_sum, 1179.6178841950893, reward_mean, 1137.7714
+2019-04-20 18:52:53,843 : Episode_length, 921, reward_sum, 1140.6029026737833, reward_mean, 1137.8150
+2019-04-20 18:52:54,961 : Episode_length, 938, reward_sum, 1159.3046115865, reward_mean, 1138.1406
+2019-04-20 18:52:56,028 : Episode_length, 910, reward_sum, 1124.9391823423364, reward_mean, 1137.9436
+2019-04-20 18:52:57,093 : Episode_length, 911, reward_sum, 1131.7797861076533, reward_mean, 1137.8529
+2019-04-20 18:52:58,202 : Episode_length, 951, reward_sum, 1172.1754249036226, reward_mean, 1138.3503
+2019-04-20 18:52:59,316 : Episode_length, 904, reward_sum, 1123.6592164368762, reward_mean, 1138.1405
+2019-04-20 18:53:00,385 : Episode_length, 901, reward_sum, 1118.8893085502516, reward_mean, 1137.8693
+2019-04-20 18:53:01,464 : Episode_length, 924, reward_sum, 1145.5968598934382, reward_mean, 1137.9767
+2019-04-20 18:53:02,517 : Episode_length, 903, reward_sum, 1121.5733920675293, reward_mean, 1137.7520
+2019-04-20 18:53:03,599 : Episode_length, 923, reward_sum, 1140.6208800941497, reward_mean, 1137.7907
+2019-04-20 18:53:04,744 : Episode_length, 945, reward_sum, 1168.3452836163876, reward_mean, 1138.1981
+2019-04-20 18:53:05,838 : Episode_length, 939, reward_sum, 1161.692753179606, reward_mean, 1138.5073
+2019-04-20 18:53:06,902 : Episode_length, 911, reward_sum, 1130.4740947758996, reward_mean, 1138.4029
+2019-04-20 18:53:08,000 : Episode_length, 942, reward_sum, 1164.190150090557, reward_mean, 1138.7335
+2019-04-20 18:53:09,061 : Episode_length, 910, reward_sum, 1129.3781137211115, reward_mean, 1138.6151
+2019-04-20 18:53:10,170 : Episode_length, 906, reward_sum, 1128.4638666445726, reward_mean, 1138.4882
+2019-04-20 18:53:11,259 : Episode_length, 938, reward_sum, 1157.9444933091143, reward_mean, 1138.7284
+2019-04-20 18:53:12,304 : Episode_length, 900, reward_sum, 1118.798732432161, reward_mean, 1138.4854
+2019-04-20 18:53:13,351 : Episode_length, 899, reward_sum, 1116.916098490912, reward_mean, 1138.2255
+2019-04-20 18:53:14,432 : Episode_length, 898, reward_sum, 1114.7046690563477, reward_mean, 1137.9455
+2019-04-20 18:53:15,489 : Episode_length, 899, reward_sum, 1115.782700506076, reward_mean, 1137.6848
+2019-04-20 18:53:16,586 : Episode_length, 937, reward_sum, 1154.8253968075724, reward_mean, 1137.8841
+2019-04-20 18:53:17,664 : Episode_length, 905, reward_sum, 1126.0233986826706, reward_mean, 1137.7477
+2019-04-20 18:53:18,755 : Episode_length, 936, reward_sum, 1154.7986573573419, reward_mean, 1137.9415
+2019-04-20 18:53:19,872 : Episode_length, 938, reward_sum, 1154.965151927511, reward_mean, 1138.1328
+2019-04-20 18:53:20,973 : Episode_length, 938, reward_sum, 1161.5416969499986, reward_mean, 1138.3929
+2019-04-20 18:53:22,031 : Episode_length, 908, reward_sum, 1122.9176598137367, reward_mean, 1138.2228
+2019-04-20 18:53:23,167 : Episode_length, 971, reward_sum, 1190.6927145966627, reward_mean, 1138.7931
+2019-04-20 18:53:24,222 : Episode_length, 906, reward_sum, 1124.5142434945597, reward_mean, 1138.6396
+2019-04-20 18:53:25,337 : Episode_length, 927, reward_sum, 1147.9268858970563, reward_mean, 1138.7384
+2019-04-20 18:53:26,446 : Episode_length, 940, reward_sum, 1160.185648408661, reward_mean, 1138.9642
+2019-04-20 18:53:27,516 : Episode_length, 912, reward_sum, 1127.3956261057242, reward_mean, 1138.8437
+2019-04-20 18:53:28,607 : Episode_length, 934, reward_sum, 1156.9451231184996, reward_mean, 1139.0303
+2019-04-20 18:53:29,703 : Episode_length, 920, reward_sum, 1138.2638004130117, reward_mean, 1139.0225
+2019-04-20 18:53:30,778 : Episode_length, 903, reward_sum, 1123.0689837099978, reward_mean, 1138.8613
+2019-04-20 18:53:31,865 : Episode_length, 921, reward_sum, 1140.462692944037, reward_mean, 1138.8773
